@@ -1,6 +1,7 @@
-Harshkumar Lalakiya
+Name: Harshkumar Lalakiya
 
-harshlalakiya.me@gmail.com
+Personal Email: harshlalakiya.me@gmail.com, 
+College Email: harshkumar.lalakiya.mtech2025@sitpune.edu.in
 
 Video: https://drive.google.com/file/d/1OixIcRmND8vvGjZ1IcBgyR8V1a_C5hxV/view?usp=sharing
 
