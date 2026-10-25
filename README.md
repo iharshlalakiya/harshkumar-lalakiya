@@ -2,6 +2,8 @@ Harshkumar Lalakiya
 
 harshlalakiya.me@gmail.com
 
+Video: https://drive.google.com/file/d/1OixIcRmND8vvGjZ1IcBgyR8V1a_C5hxV/view?usp=sharing
+
 Run: python checker.py 
 
 # Ridgeline Weather Network - data health check
@@ -15,7 +17,7 @@ would affect the coordinator's spring climate summary and this week's technician
 |---|---|
 | `checker.py` | Reads a data pack folder and writes `flags.csv` |
 | `flags.csv` | Output of `checker.py` on this pack — one row per problem found |
-| `report.html` | Two-page report for the coordinator, answering the two questions in the brief |
+| `report.pdf` | Two-page report for the coordinator, answering the two questions in the brief |
 | `DECISIONS.md` | The five written-answer questions |
 | `stations.csv`, `data/`, `gps/`, `maintenance_log.md` | The data pack itself - **not committed**, see `.gitignore` |
 
