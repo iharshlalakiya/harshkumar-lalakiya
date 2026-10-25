@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+# the data pack itself must not be committed
+data/
+gps/
+stations.csv
+maintenance_log.md
+Aeron-AI-Research-Engineer-Intern-AssignmentNew.pdf
