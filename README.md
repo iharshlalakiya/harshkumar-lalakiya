@@ -1,7 +1,6 @@
 Harshkumar Lalakiya
 harshlalakiya.me@gmail.com
 Video: TODO — add the unlisted YouTube/Drive link here before submitting
-Run: python checker.py <path to data pack folder>
 
 # Ridgeline Weather Network — data health check
 
@@ -22,7 +21,7 @@ would affect the coordinator's spring climate summary and this week's technician
 ## How to run it
 
 ```text
-python checker.py <path to data pack folder>
+python checker.py 
 ```
 
 The pack folder must contain `stations.csv`, a `data/` folder of `Sxx.csv` files, and a `gps/`
