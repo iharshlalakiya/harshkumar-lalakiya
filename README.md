@@ -69,7 +69,7 @@ venv\Scripts\python checker.py path\to\pack
 
 - A similar step-change check for `wind_kmh`, to catch the anemometer swap at S07 automatically.
   I tried it and dropped it - see `DECISIONS.md`, question 3, for why - and documented that
-  finding by hand in `report.html` instead of in `flags.csv`.
+  finding by hand in `report.pdf` instead of in `flags.csv`.
 - The checker doesn't cross-check `wind_dir_deg` for physical plausibility beyond the 0–360°
   range (e.g. a direction that flips 180° between adjacent readings with no calm in between).
 - No automated check for the radiation-shield/spider-web type notes in `maintenance_log.md` -
