@@ -1,6 +1,8 @@
 Harshkumar Lalakiya
+
 harshlalakiya.me@gmail.com
-Video: TODO — add the unlisted YouTube/Drive link here before submitting
+
+Run: python checker.py 
 
 # Ridgeline Weather Network - data health check
 
@@ -15,7 +17,6 @@ would affect the coordinator's spring climate summary and this week's technician
 | `flags.csv` | Output of `checker.py` on this pack — one row per problem found |
 | `report.html` | Two-page report for the coordinator, answering the two questions in the brief |
 | `DECISIONS.md` | The five written-answer questions |
-| `ai_logs/` | Raw exports of the AI chats used while building this |
 | `stations.csv`, `data/`, `gps/`, `maintenance_log.md` | The data pack itself - **not committed**, see `.gitignore` |
 
 ## How to run it
